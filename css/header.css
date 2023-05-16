@@ -1,0 +1,15 @@
+header {}
+
+img {}
+
+h1 {
+    text-align: left;
+
+    padding-left: 30px;
+}
+
+nav {}
+
+i {
+    color: var(--text-blue);
+}

@@ -1,0 +1,27 @@
+:root {
+    --text-blue: #99bde9;
+    --text-gray: #42474a;
+    --background-blue-strong: #075c9d;
+    --background-blue-light: #abc9ed;
+}
+
+body {
+    background: var(--background-blue-light);
+    color: var(--text-gray);
+}
+
+body header {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-blue);
+    background-color: var(--background-blue-strong);
+}
+
+body main{
+    font-family: 'Bree Serif', serif;
+}
+
+body footer{
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-blue);
+    background-color: var(--background-blue-strong);
+}

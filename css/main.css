@@ -1,0 +1,24 @@
+section {
+    display: inline;
+}
+
+.funcionamento i{
+   padding: 0 13px 0 0;
+}
+
+.funcionamento{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.endereco{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+figure {
+    width: 30%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
